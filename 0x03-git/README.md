@@ -1,1 +1,3 @@
-0x03-git folder readme
+#0x03-git 
+
+readme for documentation
